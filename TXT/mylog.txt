@@ -1,0 +1,15 @@
+# REV07: Tue 28 Jun 2022 15:00
+# REV06: Wed 07 Jul 2021 20:00
+# REV04: Sun 21 Feb 2021 11:00
+# REV03: Thu 24 Sep 2020 11:00
+# REV01: Sat 12 Sep 2020 00:00
+# START: Tue 08 Sep 2020 11:00
+# ##########################################
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ##########################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
+ZCZC W00 10 L09 Doing week 0 assignment
