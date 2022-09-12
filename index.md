@@ -6,3 +6,9 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
+
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
