@@ -23,3 +23,4 @@ ZCZC W01 90 L11 Assignment #01
 ZCZC W01 90 L02 ZOOM meetings related
 ZCZC W01 100 L11 Assignment #01
 ZCZC W01 80 L11 Assignment #01
+ZCZC W01 40 L11 Assignment #01
