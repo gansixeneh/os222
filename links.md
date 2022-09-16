@@ -28,6 +28,16 @@ You can use man command to understand any command, but sometimes it is too long.
 tldr is an alternative of man, short for "too long, didn't read".
 It is a simplified version of man, and you can also contribute to it.
 
+4. [PGP Explained](https://youtu.be/1-MPcUHhXoc)<br>
+This video is a very simple explanation of PGP.
+It illustrates how public key and private key works.
+Hopefully, this can give you a better understanding of the powerfulness of PGP.
+
+5. [Internet Security History](https://youtu.be/LGABCWReYVk)<br>
+A short explanation of internet security and its history.
+This video explains why internet security is necessary, and what have people done to make it better.
+The explanation is very fun and illustrative, so you might want to check this out.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
