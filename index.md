@@ -6,9 +6,11 @@
 [GITHUB](https://github.com/gansixeneh/os222)
 <br>
 <hr>
-
+My name is Muflih Naufal Maxi. Welcome to my GitHub page for OS222: Operating Systems 2022-2.
+Enjoy your stay :D
+This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022 --- Muflih Naufal Maxi.
 <hr>
 <br>
