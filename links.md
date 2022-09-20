@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">Muflih Naufal Maxi</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Muflih Naufal Maxi</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
@@ -40,6 +40,6 @@ The explanation is very fun and illustrative, so you might want to check this ou
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022 --- Muflih Naufal Maxi.
 <hr>
 <br>
