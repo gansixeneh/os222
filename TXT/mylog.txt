@@ -31,3 +31,6 @@ ZCZC W02 10 L13 Assignment #03
 ZCZC W03 20 L13 Assignment #03
 ZCZC W03 130 L02 ZOOM meetings related
 ZCZC W03 20 L13 Assignment #03
+ZCZC W03 100 L99 Face-to-face lecture
+ZCZC W03 20 L01 SCELE/Discord related
+ZCZC W03 5 L05 Quiz related including studying
