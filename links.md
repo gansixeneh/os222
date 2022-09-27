@@ -52,6 +52,18 @@ If you're interested about external fragmentation, you can check out this video.
 Here, you can find an illustrative example of an external fragmentation in a memory that uses contiguous memory allocation.
 After that, this video explains how to resolve the problem using compaction.
 
+# WEEK 04
+
+1. [C memory addresses 📬](https://youtu.be/1KVpi0VN82E)
+An explanation of how memory addresses works in C with a fun analogy.
+It gives example of memories in several data types and array.
+Have fun reading long hexadecimal addresses :D (yes, there's no other way).
+
+2. [C pointers 👉](https://youtu.be/DplxIq0mc_Y)
+This video explains what are pointers in C and how to use them.
+It gives example of pointer and indirection operators in a program.
+You can also tinker with the code given in the description.
+
 <br>
 <hr>
 &copy; 2022 --- Muflih Naufal Maxi.
