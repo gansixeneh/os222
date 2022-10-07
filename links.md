@@ -64,6 +64,26 @@ This video explains what are pointers in C and how to use them.
 It gives example of pointer and indirection operators in a program.
 You can also tinker with the code given in the description.
 
+# WEEK 05
+
+1. [More Pointers Video 🗿](https://youtu.be/2ybLD6_2gKM)
+Well yes, pointers are still confusing for me, so here's another video.
+The video explains what pointer does and explains a sample code using pointers.
+The thumbnail is a fun meme by the way.
+
+2. [How computer memory works - Kanawat Senanan](https://youtu.be/p3q5zWCw8J4)
+A Ted-Ed video explaining how memory works.
+It visualizes the processes happening inside your computer.
+You can also find an explanation of why hard drive deterioriates.
+
+# OOT (Out of Topic)
+
+1. [Go Touch Some Grass 🌿](https://youtu.be/1KVpi0VN82E)
+Can't go outside because you're interested in Linux?
+Here's a tutorial of how to touch some grass in Linux.
+You don't need to go outside anymore :)
+
+
 <br>
 <hr>
 &copy; 2022 --- Muflih Naufal Maxi.
