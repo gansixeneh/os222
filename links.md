@@ -76,6 +76,18 @@ A Ted-Ed video explaining how memory works.
 It visualizes the processes happening inside your computer.
 You can also find an explanation of why hard drive deterioriates.
 
+# WEEK 06
+
+1. [Processes and threads - Gary explains](https://youtu.be/h_HwkHobfs0)
+A very awesome explanation of processes and threads.
+Not just a theoretical video, this video explains the correlation of processes and threads to our daily life.
+Also, the illustration is very good, so go check it out if you're interested :D
+
+2. [Amdahl's Law](https://youtu.be/TNzoaJ40cLY)
+A concise explanation of what Amdahl's Law is.
+It also explains the consequences and benefits of Amdahl's Law.
+Hopefully, this video can give you a deeper understanding of Amdahl's Law, rather than just thinking about it as some random math formula.
+
 # OOT (Out of Topic)
 
 1. [Go Touch Some Grass 🌿](https://youtu.be/1KVpi0VN82E)
