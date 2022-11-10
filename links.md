@@ -88,6 +88,19 @@ A concise explanation of what Amdahl's Law is.
 It also explains the consequences and benefits of Amdahl's Law.
 Hopefully, this video can give you a deeper understanding of Amdahl's Law, rather than just thinking about it as some random math formula.
 
+# WEEK 07
+
+1. [Deadlock in OS | GeeksforGeeks](https://youtu.be/onkWXaXAgbY)
+An interesting approach to Deadlock in OS.
+It explains Deadlock with real-world examples while comparing it with the OS version of Deadlock.
+It also explains the conditions necessary for Deadlock using the examples mentioned before.
+
+2. [Race Condition and Dekker's Algorithm 🤖](https://youtu.be/MqnpIwN7dz0)
+This video explains what race condition is with an interesting animation (cute little robots :D).
+You can find different solutions to the race condition and their weaknesses.
+The final solution to the race condition is Dekker's Algorithm, and it will be explained at the end of the video.
+
+
 # OOT (Out of Topic)
 
 1. [Go Touch Some Grass 🌿](https://youtu.be/1KVpi0VN82E)
