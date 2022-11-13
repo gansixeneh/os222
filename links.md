@@ -103,10 +103,15 @@ The final solution to the race condition is Dekker's Algorithm, and it will be e
 
 # OOT (Out of Topic)
 
-1. [Go Touch Some Grass 🌿](https://youtu.be/1KVpi0VN82E)
+1. [Go Touch Some Grass 🌿](https://youtu.be/BnlVz205Zfs)
 Can't go outside because you're interested in Linux?
 Here's a tutorial of how to touch some grass in Linux.
 You don't need to go outside anymore :)
+
+2. [Deadlocked - Geometry Dash 😈](https://youtu.be/I3LFTGTIWoI)
+While learning WEEK07's materials, there's one word that got stuck in my mind, "Deadlock".
+Here is "Deadlocked", the hardest official level in Geometry Dash (GD).
+Try to play it if you have some time, it's very fun and relaxing :D
 
 
 <br>
