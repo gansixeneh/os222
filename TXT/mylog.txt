@@ -49,4 +49,4 @@ ZCZC W07 10 L17 Assignment #07
 ZCZC W07 90 L99 Face-to-face lecture
 ZCZC W08 90 L99 Face-to-face lecture
 ZCZC W08 30 L17 Assignment #07
-ZCZC W08 90 L99 Face-to-face lecture
+ZCZC W08 90 L99 L02 ZOOM meetings related
