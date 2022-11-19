@@ -100,6 +100,19 @@ This video explains what race condition is with an interesting animation (cute l
 You can find different solutions to the race condition and their weaknesses.
 The final solution to the race condition is Dekker's Algorithm, and it will be explained at the end of the video.
 
+# WEEK 08
+
+1. [Round Robin (RR) Algorithm 🖥️](https://youtu.be/aWlQYllBZDs)
+I didn't understand Round Robin on the slide, so here's a video.
+The step-by-step explanation given by this video is very informative, starting from what is CPU scheduling until the details of the algorithm.
+If you want to learn more about this algorithm, check this video out.
+You can get many information in less than five minutes.
+
+2. [Scheduling: Multilevel Feedback Queue](https://youtu.be/O3q3Su47q5g)
+A very simple and logical explanation of Multilevel Feedback Queue.
+It also explains the six Scheduling Criteria and when to prioritize one of them.
+Hopefully, you can have a better understanding of the concept. 
+
 
 # OOT (Out of Topic)
 
